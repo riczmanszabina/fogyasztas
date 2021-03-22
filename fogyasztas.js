@@ -9,3 +9,9 @@ while(tankolas>1 && tankolas<50)
 {
     tankolas = prompt("Hány litert tankoltál? ")
 }
+
+
+let autok = {
+    evjarat: 1998,
+    automarka: wolsvagen
+};
